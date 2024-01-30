@@ -1,4 +1,23 @@
 {
+  "CF244164763": {
+    "contest_id": 1918,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1918/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Brick Wall",
+    "problem_url": "https://codeforces.com/contest/1918/problem/A",
+    "submission_id": "CF244164763",
+    "submission_url": "https://codeforces.com/contest/1918/submission/244164763",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/30/2024 19:22"
+  },
   "CF247916176": {
     "contest_id": 1923,
     "language": "C++17 (GCC 7-32)",
