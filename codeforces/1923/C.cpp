@@ -547,8 +547,8 @@ int main() {
         }
         //cerr << "c: " << c << endl;
         foi(0,n){
-            pc[i+1]=pc[i]+(c[i]!=1?c[i]-1:0);
-            //pc[i+1]=pc[i]+(c[i]-1);
+            //pc[i+1]=pc[i]+(c[i]!=1?c[i]:0);
+            pc[i+1]=pc[i]+(c[i]-1);
             //pco[i+1]=pco[i]+(c[i]==1?1:0);
             pco[i+1]=pco[i]+(c[i]==1);
         }
@@ -565,7 +565,7 @@ int main() {
             cerr << endl; */
             int64_t sum = (pc[r]-pc[l]);
             ll ones = (pco[r]-pco[l]);
-            if(r-l==1||sum<ones){
+            if(r-l==1||ones>sum){
                 cout << "NO" << endl;
             }
             else cout << "YES" << endl;

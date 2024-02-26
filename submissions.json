@@ -1,4 +1,21 @@
 {
+  "CF248369488": {
+    "contest_id": 1923,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1923/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Find B",
+    "problem_url": "https://codeforces.com/contest/1923/problem/C",
+    "submission_id": "CF248369488",
+    "submission_url": "https://codeforces.com/contest/1923/submission/248369488",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Feb/26/2024 15:20"
+  },
   "CF248369936": {
     "contest_id": 1923,
     "language": "C++17 (GCC 7-32)",
