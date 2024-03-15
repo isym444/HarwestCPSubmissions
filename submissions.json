@@ -1,4 +1,21 @@
 {
+  "CF251465059": {
+    "contest_id": 1948,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1948/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Special Characters",
+    "problem_url": "https://codeforces.com/contest/1948/problem/A",
+    "submission_id": "CF251465059",
+    "submission_url": "https://codeforces.com/contest/1948/submission/251465059",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Mar/15/2024 15:07"
+  },
   "CF251518907": {
     "contest_id": 1948,
     "language": "C++17 (GCC 7-32)",
