@@ -1,4 +1,19 @@
 {
+  "CF253707886": {
+    "contest_id": 1950,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1950/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Upscaling",
+    "problem_url": "https://codeforces.com/contest/1950/problem/B",
+    "submission_id": "CF253707886",
+    "submission_url": "https://codeforces.com/contest/1950/submission/253707886",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Mar/28/2024 15:12"
+  },
   "CF253739548": {
     "contest_id": 1950,
     "language": "C++20 (GCC 13-64)",
