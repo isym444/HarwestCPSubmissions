@@ -1,4 +1,20 @@
 {
+  "CF254149655": {
+    "contest_id": 1942,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1942/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Bessie and MEX",
+    "problem_url": "https://codeforces.com/contest/1942/problem/B",
+    "submission_id": "CF254149655",
+    "submission_url": "https://codeforces.com/contest/1942/submission/254149655",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "timestamp": "Mar/30/2024 15:25"
+  },
   "CF254357599": {
     "contest_id": 1942,
     "language": "C++20 (GCC 13-64)",
